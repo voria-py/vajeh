@@ -1,5 +1,7 @@
 # VAJEH - Offline EN-FA Dictionary V1.0.0
 ![header](https://github.com/amirkho-py/vajeh/blob/main/header.png)
+
+
 A simple desktop dictionary app with about 80,000 words in ENGLISH/PERSIAN
 
 ![screenshot]((https://github.com/amirkho-py/vajeh/blob/main/ScreenShot.png))
