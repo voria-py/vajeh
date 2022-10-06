@@ -4,12 +4,9 @@
 
 A simple desktop dictionary app with about 80,000 words in ENGLISH/PERSIAN
 
-<<<<<<< HEAD
 ![screenshot](https://github.com/amirkho-py/vajeh/blob/main/ScreenShot.png)
 
-=======
-![screenshot](https://github.com/amirkho-py/vajeh/blob/main/ScreenShot .png)
->>>>>>> df5592cb0e5619b47577a43e3b34f8688638b054
+
 
 ## Tech Stack
 - Python(programming language)
