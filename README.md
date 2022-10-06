@@ -1,8 +1,8 @@
 # VAJEH - Offline EN-FA Dictionary V1.0.0
-![header](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![header](https://github.com/amirkho-py/vajeh/blob/main/header.png)
 A simple desktop dictionary app with about 80,000 words in ENGLISH/PERSIAN
 
-![header](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![screenshot]((https://github.com/amirkho-py/vajeh/blob/main/ScreenShot.png))
 
 ## Tech Stack
 - Python(programming language)
