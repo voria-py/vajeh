@@ -4,6 +4,8 @@
 
 A simple desktop dictionary app with about 80,000 words in ENGLISH/PERSIAN
 
+By: Amirhossein Khosravi
+
 ![screenshot](https://github.com/amirkho-py/vajeh/blob/main/ScreenShot.png)
 
 
